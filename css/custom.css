@@ -10,14 +10,20 @@
 
 
 
+@font-face {
+    font-family: BYekan;
+    src: url("/fonts/BYekan.ttf");
+}
+
 * {
-    font-family: 'B Yekan';
+    font-family: 'BYekan';
+    src : url("/fonts/BYekan.ttf");
     outline: none !important;
     box-shadow: none;
 }
 
 #my-font{
-    font-family: 'B Yekan';
+    font-family: 'BYekan';
 }
 
 a {
@@ -91,7 +97,7 @@ button.navbar-toggle .ion-navicon {
 
 body {
     overflow-x: hidden;
-    font-family:  'B Yekan';
+    font-family:  'BYekan';
 }
 
 h3 {
@@ -100,7 +106,7 @@ h3 {
 
 p {
     font-size: 17px;
-    font-family: 'B Yekan', sans-serif;
+    font-family: 'BYekan', sans-serif;
     letter-spacing: 1px;
     line-height: 31px;
 }
@@ -127,14 +133,14 @@ li a
 }
 #heading-text h3 {
     font-size: 49px;
-    font-family: 'B Yekan';
+    font-family: 'BYekan';
     padding-top: 58px;
     text-transform: uppercase;
 }
 
 #heading-text p {
     font-size: 18px;
-    font-family: 'B Yekan';
+    font-family: 'BYekan';
     padding: 5px 0px
 }
 
@@ -169,7 +175,7 @@ iframe
     margin: 5px 20px;
     padding: 0;
     line-height: 28px;
-    font-family: "B Yekan";
+    font-family: "BYekan";
     text-transform: capitalize;
 }
 
@@ -183,7 +189,7 @@ iframe
 }
 .navbar-default .navbar-brand {
     color: #fff;
-    font-family: "B Yekan";  
+    font-family: "BYekan";  
     padding: 5px 15px;  
     font-size: 26px;  
     line-height: 100%;  
@@ -220,14 +226,14 @@ iframe
 .rene {
     font-size: 90px;
     color: white;
-    font-family: "B Yekan";
+    font-family: "BYekan";
     font-weight: 300;
     margin-top: 60px;
     margin-bottom: 35px;
 }
 
 .starting-text h2 {
-    font-family: "B Yekan";
+    font-family: "BYekan";
     color: #fff;
 }
 
@@ -306,7 +312,7 @@ Our service
     padding: 5px 10px 0px 10px;
 }
 .about-service h5 {
-    font-family: 'B Yekan';
+    font-family: 'BYekan';
     font-size: 33px;
     margin-bottom: 20px;
 }
