@@ -9,17 +9,6 @@
 =======================================================================================================*/
 
 
-/* Webfont: Yekan */
-
-/* @font-face {
-    font-family: Yekan, monospace;
-    src: url(Yekan.eot) format('woff2'),
-         url(Yekan.eot?#iefix) format('embedded-opentype'),
-         url(Yekan.woff) format('truetype'),
-         url(Yekan.woff2) format('woff2'),
-         url(Yekan.otf) format('opentype'),
-         url(Yekan.ttf) format('truetype');
-  } */
 
 @font-face {
     font-family: Yekan;
